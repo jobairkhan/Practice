@@ -1,0 +1,6 @@
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\bin\Debug\50EfficientWay.exe.config
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\bin\Debug\50EfficientWay.exe
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\bin\Debug\50EfficientWay.pdb
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\obj\Debug\50EfficientWay.csprojResolveAssemblyReference.cache
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\obj\Debug\50EfficientWay.exe
+c:\users\jobairk\documents\visual studio 2012\Projects\50EfficientWay\50EfficientWay\obj\Debug\50EfficientWay.pdb
